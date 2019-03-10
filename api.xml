@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <current>
+      <cloud>25</cloud>
+      <condition>
+         <code>1003</code>
+         <icon>//cdn.apixu.com/weather/64x64/day/116.png</icon>
+         <text>Partly cloudy</text>
+      </condition>
+      <feelslike_c>6.9</feelslike_c>
+      <feelslike_f>44.4</feelslike_f>
+      <humidity>58</humidity>
+      <is_day>1</is_day>
+      <last_updated>2019-03-09 11:30</last_updated>
+      <last_updated_epoch>1552127414</last_updated_epoch>
+      <precip_in>0</precip_in>
+      <precip_mm>0</precip_mm>
+      <pressure_in>30.2</pressure_in>
+      <pressure_mb>1008</pressure_mb>
+      <temp_c>10</temp_c>
+      <temp_f>50</temp_f>
+      <uv>4</uv>
+      <vis_km>10</vis_km>
+      <vis_miles>6</vis_miles>
+      <wind_degree>220</wind_degree>
+      <wind_dir>SW</wind_dir>
+      <wind_kph>25.9</wind_kph>
+      <wind_mph>16.1</wind_mph>
+   </current>
+   <location>
+      <country>Poland</country>
+      <lat>52.25</lat>
+      <localtime>2019-03-09 11:44</localtime>
+      <localtime_epoch>1552128284</localtime_epoch>
+      <lon>21</lon>
+      <name>Warsaw</name>
+      <region />
+      <tz_id>Europe/Warsaw</tz_id>
+   </location>
+</root>
